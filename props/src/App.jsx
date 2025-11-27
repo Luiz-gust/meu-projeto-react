@@ -1,4 +1,4 @@
-import Login from "./components/state/Login";
+import Login from "./components/Props/Login";
 
 function App() {
   return <Login />;
