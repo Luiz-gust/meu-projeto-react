@@ -1,11 +1,7 @@
-import Login from "./components/props/Login.jsx";
+import Login from "./components/state/Login";
 
 function App() {
-  return (
-    <>
-      <Login />
-    </>
-  );
+  return <Login />;
 }
 
 export default App;
