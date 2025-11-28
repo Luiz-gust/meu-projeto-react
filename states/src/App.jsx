@@ -1,7 +1,11 @@
-import Login from "./components/states/Logins";
+import Login from "./components/states/Login";
 
 function App() {
-  return <Login />;
+  return (
+    <>
+      <Login/>
+    </>
+  );
 }
 
 export default App;

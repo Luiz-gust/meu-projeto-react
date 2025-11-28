@@ -1,8 +1,8 @@
-import Label from "./Labels"
-import Labelln from "./Labellns"
-import InputText from "./Labellns"
-import InputPassword from "./InputPasswords"
-import Button from "./Buttons"
+import Label from "./Label"
+import Labelln from "./Labelln"
+import InputText from "./InputText"
+import InputPassword from "./InputPassword"
+import Button from "./Button"
 function Login() {
     return (
         <>
