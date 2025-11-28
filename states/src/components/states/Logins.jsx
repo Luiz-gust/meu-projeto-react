@@ -1,8 +1,8 @@
-import Label from "./Label.jsx"
-import Labelln from "./Labelln.jsx"
-import Button from "./Button.jsx"
-import InputText from "./>InputText.jsx"
-import InputPassword from "./Inputpassword.jsx"
+import Label from "./Labels"
+import Labelln from "./Labellns"
+import InputText from "./Labellns"
+import InputPassword from "./InputPasswords"
+import Button from "./Buttons"
 function Login() {
     return (
         <>
